@@ -14,6 +14,7 @@
 <?php
 //Background image
 
+
 $page_bg_image_url 										= get_background_image();
 //Advanced Custom Fields
 $homepage_about_me_headline						= get_field('homepage_about_me_headline');

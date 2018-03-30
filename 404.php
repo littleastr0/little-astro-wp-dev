@@ -21,6 +21,7 @@ get_header(); ?>
 				</header><!-- .page-header -->
 
 				<div class="page-content">
+					<p> :)</p>
 					<p><?php esc_html_e( 'It looks like nothing was found at this location. Maybe try one of the links below or a search?', 'littleastro' ); ?></p>
 
 					<?php
@@ -58,7 +59,7 @@ get_header(); ?>
 
 
 	</div>
-		
+
 		</div><!-- row -->
 	</div>
 </section>

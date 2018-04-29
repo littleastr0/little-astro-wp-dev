@@ -18,7 +18,7 @@ $page_bg_image_url 										= get_background_image();
  <div class="container"><!---blog container --->
 	 <div class="margin-fix">
 			 <div class="row" id="primary">
-		 	 		<main id="content" class="col-md-8" role="main">
+		 	 		<main id="content" class="col-md-12" role="main">
 						<div class="comments-blog">
 
 		<?php
@@ -41,11 +41,6 @@ $page_bg_image_url 										= get_background_image();
 		</div>
 	</div>
 			</main><!-- #main -->
-			<aside class ="col-md-4">
-												<div class="sidebar-widget">
-												<?php get_sidebar(); ?>
-											</div>
-			</aside>
 		</div>
 
 	</div>
